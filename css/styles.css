@@ -1,0 +1,29 @@
+body {
+  background-color: #EAF6F6;
+}
+
+.text {
+  text-align: justify;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 7%;
+}
+
+h1 {
+  color: #026c7c;
+  font-family: "Trebuchet MS";
+}
+
+h3 {
+  color: #026c7c;
+  font-family: "Trebuchet MS";
+}
+
+p, ol, ul, table {
+  font-family: "Trebuchet MS";
+}
